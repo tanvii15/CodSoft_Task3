@@ -5,7 +5,7 @@ Restaurant Menu: A restaurant menu UI/UX project is the process of designing a m
 This is my submission for Task 3 of the CodSoft Internship program.  
 The project is a beautifully designed, responsive Veg Restaurant Menu** built with HTML and CSS.
 
-## 🌿 Project Overview
+## Project Overview
 
 The menu is built to be:
 Elegant: Uses clean fonts and dark nude tones for a high-end feel.
@@ -14,7 +14,7 @@ Informative: Includes descriptions and allergen info for each dish.
 User-Friendly: Organized by course sections (Starters, Main Course, Desserts, Beverages).
 Indian Currency Format: Prices shown as `Rs.` (not $).
 
-## ✨ Features
+## Features
 Fully vegetarian menu
 Custom section dividers and soft shadows
 Allergy and ingredient highlights
